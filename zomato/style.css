@@ -1311,6 +1311,18 @@ input[type="email"] {
             align-items: center;
             text-align: center;
         }
+        .logo-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            margin-bottom: 15px;
+        }
+    
+        .logo-section img {
+            max-width: 150px; 
+            height: auto;
+        }
 
         .footer-column {
             width: 100%;
@@ -1320,6 +1332,9 @@ input[type="email"] {
         .language-selector {
             width: auto;
             justify-content: center;
+        }
+        .country-selector{
+            margin-bottom: 10px;
         }
 
         .selectors {
