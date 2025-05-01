@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+.wsbtn i{
+    color: #27AE60;
+}
+.wsbtn{
+    border: 1px solid#27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+}
+.wsbtn:hover{
+    border: 1px solid#27AE60;
+}
+.call{
+    color: white;
+    padding: 10px 18px;
+    background:linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.bannerContent h1 span{
+    color: #0ACEFE;
+    background: url(../images/border.png) no-repeat bottom;
+}
+.bannerContent p{
+    font-size: 22px;
+}
+.bannerContent ul{
+    list-style: none;
+}
+.bannerContent ul li{
+    font-size: 22px;
+}
+.bannerContent ul li i{
+    color: #0ACEFE;
+    margin-right: 10px;
+}
+.bannerbtn button{
+    width: 50%;
+    padding: 10px 0;
+    border-radius: 5px;
+    background: white;
+
+}
+.bannerbtn button:first-child{
+    color: white;
+    border: none;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.bannerform{
+    padding: 40px;
+    radius: 10px;
+}
+.bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerform button{
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 5px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    border: none;
+}
+.countersection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+.highlightSection{
+    background-color: #F7FAFF;
+}
+.highlightSection h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.highlightSection p{
+    font-size: 18px;
+    color: #0A2134;
+}
+.highlightitems h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+}
+.highlightitems p{
+    font-size: 15px;
+    color: #0A2134;
+}
+.btn1{
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    padding: 10px 18px;
+    border-radius: 5px;
+    border: none;
+}
+.career h2{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 45px;
+}
+.career p{
+    font-size: 16px;
+    text-align: center;
+}
+.tabitems ul{
+    list-style: none;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-bottom: 20px;
+}
+.tabitems ul li i{
+    color:#2699FB;
+    margin-right: 10px;
+}
+.tabmysystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #F2F4F7;
+    color: #0A2134;
+    border-bottom: 2px solid #2699FB;
+    border-radius: 0px;
+}
+.top1 h2{
+    font-size: 20px;
+    font-weight:600;
+    color: #0A2134;
+    margin-top: 20px;
+}
+.top1 p{
+    font-size: 16px;
+    color: #0A2134;
+}
+.top1 img{
+    border: 5px solid white;
+    border-radius: 5px;
+}
+.curriculum h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.dm2 h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top:20px ;
+    
+}
+.dm2 p{
+    font-size: 16px;
+    color: #0A2134;
+}
+.footer{
+    background-color: #0A2540;
+}
+.foo2 p{
+    font-size: 16px;
+    color: white;
+    /* text-align: center; */
+}
+.foo3{
+    margin-top: 50px;
+}
